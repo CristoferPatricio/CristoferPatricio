@@ -16,4 +16,4 @@ Estudiante de **Ingeniería en Sistemas** en la Universidad Da Vinci de Guatemal
 - 🇬🇹 Ubicación: Guatemala.
 
 ---
-*"El aprendizaje es constante."*
+*"El aprendizaje es constante."*.
