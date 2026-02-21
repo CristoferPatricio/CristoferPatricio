@@ -1,22 +1,19 @@
-## Hi there 👋
+# Hola, soy Cristofer Patricio 👋
 
-<!--
-**CristoferPatricio/CristoferPatricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Sistemas** en la Universidad Da Vinci de Guatemala. Me dedico a crear soluciones con código y automatizar procesos financieros.
 
-Here are some ideas to get you started:
+### 🚀 Lo que estoy haciendo
+- 🛠️ Especializándome en **Java**, **Python** y **VBA**.
+- 📱 Explorando el mundo Full-Stack con **React Native** y **Firebase**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tecnologías
+- **Lenguajes:** Java, Python, JavaScript, VBA.
+- **Web/Mobile:** React, React Native.
+- **Backend:** Firebase, SQL.
 
---> ESTA ES UNA PRUEBA 
+### 📫 Contacto
+- 🎓 Facultad de Ingeniería en Sistemas - UDV.
+- 🇬🇹 Ubicación: Guatemala.
 
-PRUEBA 2
-esta es una prueba una funcion 
-
-
+---
+*"El aprendizaje es constante."*
